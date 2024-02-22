@@ -85,7 +85,7 @@
 
 version: '2.0'
 
-# networks
+# networks dcerda
 # create a network 'guacnetwork_compose' in mode 'bridged'
 networks:
   guacnetwork_compose:
